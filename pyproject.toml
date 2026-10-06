@@ -1,0 +1,9 @@
+[project]
+name = "llm-hallucination-factcheck-benchmark"
+version = "0.1.0"
+description = "Evidence-linked claim review with abstention and error analysis."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
